@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## ` IMPORTANT before start`
-you should start script
+you should start json-server with script
 
 json-server --watch db.json
 
