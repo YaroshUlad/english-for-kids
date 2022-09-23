@@ -1,0 +1,508 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "colors",
+      "deckImage": "https://static6.depositphotos.com/1167801/651/i/950/depositphotos_6517777-stock-photo-rainbow-of-colorful-boxes.jpg",
+      "words": [
+        {
+          "id": 0,
+          "eng": "red",
+          "rus": "красный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/512px-Solid_red.svg.png?20150316143248",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/red-us.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "white",
+          "rus": "белый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Solid_white.png?20060513000852",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/white-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "black",
+          "rus": "черный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/2560px-A_black_image.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/black-uk.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "brown",
+          "rus": "коричневый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Solid_brown.svg/1200px-Solid_brown.svg.png",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brown-uk.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "pink",
+          "rus": "розовый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rose-pink.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pink-uk.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "blue",
+          "rus": "синий",
+          "img": "https://images.unsplash.com/photo-1589859762194-eaae75c61f64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMGNvbG9yfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blue-au.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "yellow",
+          "rus": "желтый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Color-yellow.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yellow-au.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "green",
+          "rus": "зеленый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Color-Green.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/green-au.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "animals",
+      "deckImage": "https://img.freepik.com/free-vector/set-wild-animals_1308-29055.jpg?w=2000",
+      "words": [
+        {
+          "id": 0,
+          "eng": "cat",
+          "rus": "кот",
+          "img": "https://t3.ftcdn.net/jpg/02/95/94/94/360_F_295949484_8BrlWkTrPXTYzgMn3UebDl1O13PcVNMU.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "dog",
+          "rus": "собака",
+          "img": "https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dog-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "pig",
+          "rus": "свинья",
+          "img": "https://thumbs.dreamstime.com/b/pig-17895486.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pig-1-au.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "hen",
+          "rus": "курица",
+          "img": "https://img.freepik.com/premium-photo/isolated-brown-hen-with-egg-studio_33755-2138.jpg?w=2000",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hen-us.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "duck",
+          "rus": "утка",
+          "img": "https://thumbs.dreamstime.com/b/standing-mallard-duck-drake-isolated-white-standing-mallard-duck-drake-isolated-white-background-117724920.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-au.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "sheep",
+          "rus": "овца",
+          "img": "https://a-z-animals.com/media/sheep-8.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sheep-uk.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "cow",
+          "rus": "корова",
+          "img": "https://media.istockphoto.com/photos/side-view-of-holstein-cow-5-years-old-standing-picture-id106531788?k=20&m=106531788&s=612x612&w=0&h=g62OoftTUjlhibdYyL3fcY3RjAcfq6KzcJphZGVxwjI=",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cow-uk.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "bull",
+          "rus": "бык",
+          "img": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVsbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bull-us.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "colors2",
+      "deckImage": "https://static6.depositphotos.com/1167801/651/i/950/depositphotos_6517777-stock-photo-rainbow-of-colorful-boxes.jpg",
+      "words": [
+        {
+          "id": 0,
+          "eng": "red",
+          "rus": "красный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/512px-Solid_red.svg.png?20150316143248",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/red-us.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "white",
+          "rus": "белый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Solid_white.png?20060513000852",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/white-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "black",
+          "rus": "черный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/2560px-A_black_image.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/black-uk.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "brown",
+          "rus": "коричневый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Solid_brown.svg/1200px-Solid_brown.svg.png",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brown-uk.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "pink",
+          "rus": "розовый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rose-pink.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pink-uk.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "blue",
+          "rus": "синий",
+          "img": "https://images.unsplash.com/photo-1589859762194-eaae75c61f64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMGNvbG9yfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blue-au.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "yellow",
+          "rus": "желтый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Color-yellow.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yellow-au.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "green",
+          "rus": "зеленый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Color-Green.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/green-au.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "animals2",
+      "deckImage": "https://img.freepik.com/free-vector/set-wild-animals_1308-29055.jpg?w=2000",
+      "words": [
+        {
+          "id": 0,
+          "eng": "cat",
+          "rus": "кот",
+          "img": "https://t3.ftcdn.net/jpg/02/95/94/94/360_F_295949484_8BrlWkTrPXTYzgMn3UebDl1O13PcVNMU.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "dog",
+          "rus": "собака",
+          "img": "https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dog-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "pig",
+          "rus": "свинья",
+          "img": "https://thumbs.dreamstime.com/b/pig-17895486.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pig-1-au.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "hen",
+          "rus": "курица",
+          "img": "https://img.freepik.com/premium-photo/isolated-brown-hen-with-egg-studio_33755-2138.jpg?w=2000",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hen-us.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "duck",
+          "rus": "утка",
+          "img": "https://thumbs.dreamstime.com/b/standing-mallard-duck-drake-isolated-white-standing-mallard-duck-drake-isolated-white-background-117724920.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-au.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "sheep",
+          "rus": "овца",
+          "img": "https://a-z-animals.com/media/sheep-8.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sheep-uk.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "cow",
+          "rus": "корова",
+          "img": "https://media.istockphoto.com/photos/side-view-of-holstein-cow-5-years-old-standing-picture-id106531788?k=20&m=106531788&s=612x612&w=0&h=g62OoftTUjlhibdYyL3fcY3RjAcfq6KzcJphZGVxwjI=",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cow-uk.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "bull",
+          "rus": "бык",
+          "img": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVsbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bull-us.mp3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "colors3",
+      "deckImage": "https://static6.depositphotos.com/1167801/651/i/950/depositphotos_6517777-stock-photo-rainbow-of-colorful-boxes.jpg",
+      "words": [
+        {
+          "id": 0,
+          "eng": "red",
+          "rus": "красный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/512px-Solid_red.svg.png?20150316143248",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/red-us.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "white",
+          "rus": "белый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Solid_white.png?20060513000852",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/white-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "black",
+          "rus": "черный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/2560px-A_black_image.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/black-uk.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "brown",
+          "rus": "коричневый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Solid_brown.svg/1200px-Solid_brown.svg.png",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brown-uk.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "pink",
+          "rus": "розовый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rose-pink.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pink-uk.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "blue",
+          "rus": "синий",
+          "img": "https://images.unsplash.com/photo-1589859762194-eaae75c61f64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMGNvbG9yfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blue-au.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "yellow",
+          "rus": "желтый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Color-yellow.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yellow-au.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "green",
+          "rus": "зеленый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Color-Green.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/green-au.mp3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "animals3",
+      "deckImage": "https://img.freepik.com/free-vector/set-wild-animals_1308-29055.jpg?w=2000",
+      "words": [
+        {
+          "id": 0,
+          "eng": "cat",
+          "rus": "кот",
+          "img": "https://t3.ftcdn.net/jpg/02/95/94/94/360_F_295949484_8BrlWkTrPXTYzgMn3UebDl1O13PcVNMU.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "dog",
+          "rus": "собака",
+          "img": "https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dog-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "pig",
+          "rus": "свинья",
+          "img": "https://thumbs.dreamstime.com/b/pig-17895486.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pig-1-au.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "hen",
+          "rus": "курица",
+          "img": "https://img.freepik.com/premium-photo/isolated-brown-hen-with-egg-studio_33755-2138.jpg?w=2000",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hen-us.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "duck",
+          "rus": "утка",
+          "img": "https://thumbs.dreamstime.com/b/standing-mallard-duck-drake-isolated-white-standing-mallard-duck-drake-isolated-white-background-117724920.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-au.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "sheep",
+          "rus": "овца",
+          "img": "https://a-z-animals.com/media/sheep-8.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sheep-uk.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "cow",
+          "rus": "корова",
+          "img": "https://media.istockphoto.com/photos/side-view-of-holstein-cow-5-years-old-standing-picture-id106531788?k=20&m=106531788&s=612x612&w=0&h=g62OoftTUjlhibdYyL3fcY3RjAcfq6KzcJphZGVxwjI=",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cow-uk.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "bull",
+          "rus": "бык",
+          "img": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVsbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bull-us.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "colors4",
+      "deckImage": "https://static6.depositphotos.com/1167801/651/i/950/depositphotos_6517777-stock-photo-rainbow-of-colorful-boxes.jpg",
+      "words": [
+        {
+          "id": 0,
+          "eng": "red",
+          "rus": "красный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Solid_red.svg/512px-Solid_red.svg.png?20150316143248",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/red-us.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "white",
+          "rus": "белый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Solid_white.png?20060513000852",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/white-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "black",
+          "rus": "черный",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/2560px-A_black_image.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/black-uk.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "brown",
+          "rus": "коричневый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Solid_brown.svg/1200px-Solid_brown.svg.png",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/brown-uk.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "pink",
+          "rus": "розовый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rose-pink.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pink-uk.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "blue",
+          "rus": "синий",
+          "img": "https://images.unsplash.com/photo-1589859762194-eaae75c61f64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMGNvbG9yfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/blue-au.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "yellow",
+          "rus": "желтый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Color-yellow.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yellow-au.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "green",
+          "rus": "зеленый",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Color-Green.JPG",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/green-au.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "animals4",
+      "deckImage": "https://img.freepik.com/free-vector/set-wild-animals_1308-29055.jpg?w=2000",
+      "words": [
+        {
+          "id": 0,
+          "eng": "cat",
+          "rus": "кот",
+          "img": "https://t3.ftcdn.net/jpg/02/95/94/94/360_F_295949484_8BrlWkTrPXTYzgMn3UebDl1O13PcVNMU.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3"
+        },
+        {
+          "id": 1,
+          "eng": "dog",
+          "rus": "собака",
+          "img": "https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dog-uk.mp3"
+        },
+        {
+          "id": 2,
+          "eng": "pig",
+          "rus": "свинья",
+          "img": "https://thumbs.dreamstime.com/b/pig-17895486.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pig-1-au.mp3"
+        },
+        {
+          "id": 3,
+          "eng": "hen",
+          "rus": "курица",
+          "img": "https://img.freepik.com/premium-photo/isolated-brown-hen-with-egg-studio_33755-2138.jpg?w=2000",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hen-us.mp3"
+        },
+        {
+          "id": 4,
+          "eng": "duck",
+          "rus": "утка",
+          "img": "https://thumbs.dreamstime.com/b/standing-mallard-duck-drake-isolated-white-standing-mallard-duck-drake-isolated-white-background-117724920.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/duck-au.mp3"
+        },
+        {
+          "id": 5,
+          "eng": "sheep",
+          "rus": "овца",
+          "img": "https://a-z-animals.com/media/sheep-8.jpg",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sheep-uk.mp3"
+        },
+        {
+          "id": 6,
+          "eng": "cow",
+          "rus": "корова",
+          "img": "https://media.istockphoto.com/photos/side-view-of-holstein-cow-5-years-old-standing-picture-id106531788?k=20&m=106531788&s=612x612&w=0&h=g62OoftTUjlhibdYyL3fcY3RjAcfq6KzcJphZGVxwjI=",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cow-uk.mp3"
+        },
+        {
+          "id": 7,
+          "eng": "bull",
+          "rus": "бык",
+          "img": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVsbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bull-us.mp3"
+        }
+      ]
+    }
+  ]
+}

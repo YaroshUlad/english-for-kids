@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.block {
+    width: 80%;
+    max-width: 1280px;
+    min-width: 400px;
+    height: max-content;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

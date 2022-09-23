@@ -1,0 +1,42 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.cardsBlock {
+    width: 80%;
+    max-width: 1280px;
+    min-width: 400px;
+    height: max-content;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.titleArea {
+    width: 80%;
+    text-align: center;
+    font-weight: bold;
+}
+.play {
+    max-width: 1280px;
+    min-width: 400px;
+    height: max-content;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.startGame{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.cardsBlockWrapper {
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

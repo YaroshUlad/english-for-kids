@@ -1,0 +1,29 @@
+.wrapper {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    margin: 20px 10px;
+}
+.imageArea {
+    height: 70%;
+    width: 100%;
+    background-color: coral;
+}
+.imageArea img {
+    width: 100%;
+    height: 100%;
+}
+.titleArea {
+    height: 30%;
+    width: 100%;
+    background-color: indianred;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    font-weight: bold;
+    font-size: 30px;
+}
